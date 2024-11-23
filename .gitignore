@@ -1,3 +1,6 @@
+# Per AOC guidelines, do not publish puzzle descriptions or inputs
+*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
